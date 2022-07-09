@@ -3,7 +3,7 @@ package test;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-//CLASS BEGINS, THIS CLASS IS REQUIRED
+//CLASS BEGINS, THIS CLASS IS REQUIRED. test
 public class Solution
 {        
  // METHOD SIGNATURE BEGINS, THIS METHOD IS REQUIRED
